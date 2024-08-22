@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm a passionate front-end developer with a knack for crafting beautiful and interactive web experiences.
+I'm a passionate MERN Stack developer with a knack for crafting beautiful and interactive web experiences.
 
 ## Skills
 
