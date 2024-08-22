@@ -28,4 +28,5 @@ I'm currently expanding my skills in:
 ## Let's Connect!
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/laraib-shuja-66089b248) or Discord (lara1B). 
 
+previous account lost due to 2FA  [l4r4ib](https://github.com/l4r4ib)
 
